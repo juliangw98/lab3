@@ -1,0 +1,46 @@
+ @import url('https://fonts.googleapis.com/css?family=Montserrat');
+
+ * {
+   padding: 0px;
+   margin: 0px;
+   font-family: 'Montserrat', sans-serif;
+ }
+
+ nav {
+   display: flex;
+   line-height: 50px;
+ }
+
+ nav>figure>img {
+   height: 50px;
+   width: 50px;
+ }
+
+ nav>ul {
+   display: flex;
+   flex-direction: row;
+ }
+
+ nav>ul>li {
+   margin-left: 50px;
+   list-style-type: none;
+ }
+
+ nav>ul>li>a {
+   text-decoration: none;
+   color: black;
+ }
+ .EmployeeSec{
+   margin-top: 25px;
+   margin-bottom:25px;
+ }
+
+ /* Using a url */
+ /* Extra small devices (phones, 600px and down) */
+ @media only screen and (max-width: 600px) {}
+
+ /* Small devices (portrait tablets and large phones, 600px and up) */
+ @media only screen and (max-width: 900px) {}
+
+ /* Small devices (portrait tablets and large phones, 600px and up) */
+ @media only screen and (min-width: 901px) {}
