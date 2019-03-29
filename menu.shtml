@@ -1,0 +1,28 @@
+<!doctype html>
+
+<html lang="en">
+
+    <head>
+
+        <meta name="description" content="The HTML5 Herald">
+        <!--#include virtual="include/head.inc"  -->
+
+
+
+    </head>
+
+    <body>
+
+        <!--#include virtual="include/navigation.inc"  -->
+        <div id="snacks"></div>
+        <div id="entree"></div>
+        <div id="specials"></div>
+        <div id="drinks"></div>
+
+        <!--#include virtual="include/footer.inc"  -->
+
+        <!--#include virtual="include/script.inc"  -->
+
+    </body>
+
+</html>
