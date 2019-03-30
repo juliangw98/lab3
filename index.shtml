@@ -5,7 +5,7 @@
     <head>
 
         <meta name="description" content="The HTML5 Herald">
-        <!--#include virtual="include/head.inc"  -->
+        <!--#include virtual="/include/head.inc"  -->
 
 
 
